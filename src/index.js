@@ -1,6 +1,6 @@
 // variaveis com nome e xp do herói e exibição do nivel
 let nomeDoHeroi = "Perseu";
-let xpDoHeroi = 12500;
+let xpDoHeroi = 5750;
 let nivelDoHeroi;
 
 if (xpDoHeroi < 1000){
